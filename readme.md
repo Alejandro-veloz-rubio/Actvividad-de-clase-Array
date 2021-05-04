@@ -1,0 +1,5 @@
+lo que hice en esta estructura de datos fue crear un clase llamada persona con su constructor que pedia el celular, nombre y edad
+despues cree otra clase llamada grupo la cual tenia las funciones de guardar, listar y buscar por el telefono 
+partiendo de eso cree un variable que me podia hacer referencia a la clase grupo esto me permitio agregar a las 5 personas, listarlas para que aparecieran en en el documento y por ultimo una variable llamada buscado para valla la redundancia buscar la persona con el numero de celular "444" y tambien ponerlo en la pantalla
+conlusion 
+Este tipo de estructura es muy efectiva en ciertos casos como la busqueda de informacion pero por el elemento push puede complicar las cosas pues agrega un elemento al final de cada array y se necesita crear mas fuciones para cambiar eso y en bases de datos mayores tambien eso puede ser un factor no muy bueno
